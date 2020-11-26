@@ -1,0 +1,8 @@
+{
+    "name": "dodge game",
+    "short_name": "dodge",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "orientation": "portrait"
+  }
